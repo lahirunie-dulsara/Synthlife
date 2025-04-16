@@ -29,3 +29,13 @@ The PCB for this project integrates an ESP8266-12E microcontroller unit, respons
 ![Schematics](Images/Schematics.png)
 
 ![PCB Overview](Images/PCB_Overview.png)
+
+## Enclosure Design
+
+### Initial Sketches
+
+![Sketches](Images/Sketches.png)
+
+The enclosure for our stress monitoring device was designed using SolidWorks to ensure precision and functionality. Leveraging SolidWorks’ advanced modeling and simulation tools, we crafted a robust design that balances durability with user comfort. The model features a sleek, contoured shape that conforms to the wearer’s body, minimizing discomfort during extended use. Through SolidWorks’ simulation capabilities, we conducted thorough stress tests and thermal analyses to ensure the enclosure withstands environmental factors and internal heat generation. The design includes effective sensor placement and user interaction. Additionally, the detailed 3D models and assemblies created in SolidWorks streamline the manufacturing process, ensuring that all components fit together seamlessly and meet high-quality standards.
+
+![Enclosure](Images/Enclosure.png)
