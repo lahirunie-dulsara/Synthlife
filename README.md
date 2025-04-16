@@ -39,3 +39,12 @@ The PCB for this project integrates an ESP8266-12E microcontroller unit, respons
 The enclosure for our stress monitoring device was designed using SolidWorks to ensure precision and functionality. Leveraging SolidWorks’ advanced modeling and simulation tools, we crafted a robust design that balances durability with user comfort. The model features a sleek, contoured shape that conforms to the wearer’s body, minimizing discomfort during extended use. Through SolidWorks’ simulation capabilities, we conducted thorough stress tests and thermal analyses to ensure the enclosure withstands environmental factors and internal heat generation. The design includes effective sensor placement and user interaction. Additionally, the detailed 3D models and assemblies created in SolidWorks streamline the manufacturing process, ensuring that all components fit together seamlessly and meet high-quality standards.
 
 ![Enclosure](Images/Enclosure.png)
+
+## Software Implementation
+
+The software implementation of our stress monitoring device is powered by C++, enabling efficient and responsive data processing. The C++ code interfaces directly with the device’s sensors, capturing physiological data such as heart rate variability and skin conductance. Advanced algorithms, implemented in C++, analyze this data in real-time to determine the user’s stress levels. The software is designed to be lightweight and fast, ensuring smooth operation while providing real-time feedback through a user-friendly interface. Additionally, it supports customizable alerts and long-term data logging, allowing users to monitor and manage their stress effectively.
+
+### Algorithm
+
+![Algorithm](Images/Algorithm.png)
+
