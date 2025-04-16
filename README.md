@@ -27,3 +27,5 @@ The proposed device to measure stress levels and vital signs based on sensor fus
 The PCB for this project integrates an ESP8266-12E microcontroller unit, responsible for processing sensor data and handling communication with external devices. Key sensors include the MAX30100 (for SpO2 and heart rate) and the MLX90614 (temperature sensor), interfaced through I2C lines, and a Galvanic Skin Response sensor. The board features proper power management using voltage regulators and capacitors to ensure stable operation. The design ensures minimal noise and interference, with clear separation of analog and digital traces. The compact and efficient layout facilitates easy deployment in wearable applications, making it suitable for continuous real-time monitoring of vital parameters related to stress levels.
 
 ![Schematics](Images/Schematics.png)
+
+![PCB Overview](Images/PCB Overview.png)
