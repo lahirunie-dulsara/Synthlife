@@ -28,4 +28,4 @@ The PCB for this project integrates an ESP8266-12E microcontroller unit, respons
 
 ![Schematics](Images/Schematics.png)
 
-![PCB Overview](Images/PCB Overview.png)
+![PCB Overview](Images/PCB_Overview.png)
